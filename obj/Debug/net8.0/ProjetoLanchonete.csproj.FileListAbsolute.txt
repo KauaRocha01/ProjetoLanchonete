@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.exe
+C:\Users\fic\Desktop\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.deps.json
+C:\Users\fic\Desktop\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.runtimeconfig.json
+C:\Users\fic\Desktop\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Desktop\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfo.cs
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\refint\ProjetoLanchonete.dll
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.genruntimeconfig.cache
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ref\ProjetoLanchonete.dll
