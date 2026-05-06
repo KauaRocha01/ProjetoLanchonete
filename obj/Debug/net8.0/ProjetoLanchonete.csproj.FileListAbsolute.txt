@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\refint\ProjetoLanchonete
 C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.pdb
 C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.genruntimeconfig.cache
 C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ref\ProjetoLanchonete.dll
+C:\Users\fic\Desktop\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.sourcelink.json
